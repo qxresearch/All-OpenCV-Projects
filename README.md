@@ -31,7 +31,7 @@ We're taking part in `Hacktoberfest 2020`so you can add your favorite OpenCV pro
 
 ### OpenCV Projects
 
-1.
+1. [Blue color detection from live video using HSV Colorspace](https://github.com/varshakr1298/Color-Detection-Using-HSV-Colorspace)
 2. 
 3. 
 
