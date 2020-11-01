@@ -31,9 +31,10 @@ We're taking part in `Hacktoberfest 2020`so you can add your favorite OpenCV pro
 
 ### OpenCV Projects
 
-1. [Blue color detection from live video using HSV Colorspace](https://github.com/varshakr1298/Color-Detection-Using-HSV-Colorspace)
-2. 
-3. 
+1. [Face Mask Detection](https://github.com/qxresearch/All-OpenCV-Projects/tree/main/Face%20Mask%20Detection)
+2. [Hand Finger Detection](https://github.com/qxresearch/All-OpenCV-Projects/tree/main/Hand%20Finger%20Detection)
+3. [Write in Air](https://github.com/qxresearch/All-OpenCV-Projects/tree/main/Write%20in%20Air)
+4. [Blue color detection from live video using HSV Colorspace](https://github.com/varshakr1298/Color-Detection-Using-HSV-Colorspace)
 
 ### Contributing
 
